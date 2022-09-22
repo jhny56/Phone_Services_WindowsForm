@@ -1,0 +1,35 @@
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.exe.config
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.exe
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.pdb
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.AssemblyReference.cache
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Register.resources
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Properties.Resources.resources
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.GenerateResource.cache
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.CoreCompileInputs.cache
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.exe
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.pdb
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Login.resources
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Users.resources
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Admin.resources
+C:\Users\Sayantisto\source\repos\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_RegistrationConfiramtion.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.AssemblyReference.cache
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Admin.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Login.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Register.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_RegistrationConfiramtion.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Form_Users.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.GenerateResource.cache
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.exe
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.pdb
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.exe.config
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.exe
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.pdb
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.Properties.Resources.resources
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.csproj.CoreCompileInputs.cache
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.exe.manifest
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\bin\Debug\FormApp_PhoneService.application
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.TrustInfo.xml
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.exe.manifest
+C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\obj\Debug\FormApp_PhoneService.application
