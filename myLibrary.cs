@@ -29,7 +29,7 @@ namespace FormApp_PhoneService
             smt.Host = "smtp.gmail.com"; //gmail smtp (the host is a gmail)
             System.Net.NetworkCredential ntcd = new NetworkCredential(); //the companie's email informations to connect the app with the companie's email so it can send an email
             ntcd.UserName = "CompaniesEmail"; //companies email
-            ntcd.Password = "ComapniesPassword"; //companies gmail password , we created a application password in the google account(its not the password that we signed in with)
+            ntcd.Password = "CompaniesPassword"; //companies gmail password , we created a application password in the google account(its not the password that we signed in with)
             smt.Credentials = ntcd; //Credentials refer to the verification of identity or tools for authentication.
             smt.EnableSsl = true; // SSL : Secured socket layer, SSL/TLS is a security system that combines authentication and encryption. The identification procedure includes an encryption key, which is used to protect all transmissions once the connection has been established.
             smt.Port = 587; //SMTP ports serve as communication endpoints that handle information transfers from one server to another.(587 is the port for emails), A port is a virtual point where network connections start and end. Ports are software-based and managed by a computer's operating system.
