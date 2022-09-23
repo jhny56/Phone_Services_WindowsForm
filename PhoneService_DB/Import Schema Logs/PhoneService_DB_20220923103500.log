@@ -1,0 +1,103 @@
+23/09/2022 13:35:00	This log contains information about the import schema operation into project 'PhoneService_DB' on computer 'DESKTOP-G616HPC' by user 'Sayantisto'.
+23/09/2022 13:35:00	Import of database schema has started.
+23/09/2022 13:35:06	Gathering error messages
+23/09/2022 13:35:06	Gathering cryptographic providers
+23/09/2022 13:35:06	Gathering credentials
+23/09/2022 13:35:06	Gathering logins
+23/09/2022 13:35:06	Gathering server roles
+23/09/2022 13:35:06	Gathering server role memberships
+23/09/2022 13:35:06	Gathering linked servers
+23/09/2022 13:35:06	Gathering linked server logins
+23/09/2022 13:35:06	Gathering routes
+23/09/2022 13:35:06	Gathering ddl triggers
+23/09/2022 13:35:06	Gathering encrypted and clr ddl triggers
+23/09/2022 13:35:06	Gathering event notifications
+23/09/2022 13:35:06	Gathering server audits
+23/09/2022 13:35:06	Gathering server audit specifications
+23/09/2022 13:35:06	Gathering event notifications
+23/09/2022 13:35:11	Gathering database credentials
+23/09/2022 13:35:11	Gathering database options
+23/09/2022 13:35:11	Gathering generic database scoped configuration option
+23/09/2022 13:35:11	Gathering users
+23/09/2022 13:35:11	Gathering roles
+23/09/2022 13:35:11	Gathering application roles
+23/09/2022 13:35:11	Gathering role memberships
+23/09/2022 13:35:11	Gathering filegroups
+23/09/2022 13:35:11	Gathering files
+23/09/2022 13:35:11	Gathering full-text catalogs
+23/09/2022 13:35:11	Gathering assemblies
+23/09/2022 13:35:11	Gathering certificates
+23/09/2022 13:35:11	Gathering asymmetric keys
+23/09/2022 13:35:11	Gathering symmetric keys
+23/09/2022 13:35:11	Gathering encrypted symmetric keys
+23/09/2022 13:35:11	Gathering database encryption keys
+23/09/2022 13:35:11	Gathering schemas
+23/09/2022 13:35:11	Gathering XML schema collections
+23/09/2022 13:35:11	Gathering user-defined data types
+23/09/2022 13:35:11	Gathering user-defined types
+23/09/2022 13:35:11	Gathering table types
+23/09/2022 13:35:11	Gathering unique keys for table types
+23/09/2022 13:35:11	Gathering primary keys for table types
+23/09/2022 13:35:13	Gathering indexes for table types
+23/09/2022 13:35:13	Gathering check constraints for table types
+23/09/2022 13:35:13	Gathering default constraints for table types
+23/09/2022 13:35:13	Gathering partition functions
+23/09/2022 13:35:13	Gathering partition schemes
+23/09/2022 13:35:13	Gathering functions
+23/09/2022 13:35:13	Gathering encrypted functions
+23/09/2022 13:35:13	Gathering aggregates
+23/09/2022 13:35:13	Gathering procedures
+23/09/2022 13:35:13	Gathering encrypted procedures
+23/09/2022 13:35:13	Gathering tables
+23/09/2022 13:35:13	Gathering primary keys
+23/09/2022 13:35:13	Gathering unique constraints
+23/09/2022 13:35:13	Gathering foreign keys
+23/09/2022 13:35:13	Gathering default constraints
+23/09/2022 13:35:13	Gathering check constraints
+23/09/2022 13:35:13	Gathering views
+23/09/2022 13:35:13	Gathering encrypted views
+23/09/2022 13:35:13	Gathering indexes
+23/09/2022 13:35:13	Gathering statistics
+23/09/2022 13:35:13	Gathering full-text index stoplists
+23/09/2022 13:35:13	Gathering search property lists
+23/09/2022 13:35:13	Gathering search properties
+23/09/2022 13:35:13	Gathering full-text indexes
+23/09/2022 13:35:13	Gathering column store indexes
+23/09/2022 13:35:13	Gathering spatial indexes
+23/09/2022 13:35:13	Gathering XML indexes
+23/09/2022 13:35:13	Gathering Selective XML indexes
+23/09/2022 13:35:13	Gathering encrypted triggers
+23/09/2022 13:35:13	Gathering triggers
+23/09/2022 13:35:13	Gathering encrypted and clr ddl triggers
+23/09/2022 13:35:13	Gathering ddl triggers
+23/09/2022 13:35:13	Creating edge constraints
+23/09/2022 13:35:13	Gathering synonyms
+23/09/2022 13:35:13	Gathering defaults
+23/09/2022 13:35:13	Gathering data constraint uddt bindings
+23/09/2022 13:35:13	Gathering rules
+23/09/2022 13:35:13	Gathering data constraint uddt bindings
+23/09/2022 13:35:13	Gathering message types
+23/09/2022 13:35:13	Gathering queues
+23/09/2022 13:35:13	Gathering contracts
+23/09/2022 13:35:13	Gathering services
+23/09/2022 13:35:13	Gathering routes
+23/09/2022 13:35:13	Gathering event notifications
+23/09/2022 13:35:14	Gathering remote service bindings
+23/09/2022 13:35:14	Gathering broker priorities
+23/09/2022 13:35:14	Gathering database audit specifications
+23/09/2022 13:35:14	Gathering signatures
+23/09/2022 13:35:14	Gathering data compression options
+23/09/2022 13:35:14	Gathering sequence types
+23/09/2022 13:35:14	Gathering security policies
+23/09/2022 13:35:14	Gather column encryption keys
+23/09/2022 13:35:14	Gathering column master keys
+23/09/2022 13:35:14	Gathering external data sources
+23/09/2022 13:35:14	Gathering external file formats
+23/09/2022 13:35:14	Gathering external tables
+23/09/2022 13:35:14	Gathering extended properties
+23/09/2022 13:35:14	Gathering assemblies
+23/09/2022 13:35:14	Scanning project for duplicate elements
+23/09/2022 13:35:14	Finished duplicate element processing
+23/09/2022 13:35:15	Finished importing database.
+23/09/2022 13:35:15	A summary of the import was saved to the following location: C:\Users\Sayantisto\Documents\Visual Studio 2022\Projects\C# Windows Forms\C#Applications\FormApp_PhoneService\PhoneService_DB\Import Schema Logs\PhoneService_DB_20220923103500.log
+23/09/2022 13:35:15	Click Finish to continue...

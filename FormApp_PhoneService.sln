@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormApp_PhoneService", "FormApp_PhoneService.csproj", "{529AC863-25B1-4411-900E-B438D043E820}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PhoneService_DB", "PhoneService_DB\PhoneService_DB.sqlproj", "{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{529AC863-25B1-4411-900E-B438D043E820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{529AC863-25B1-4411-900E-B438D043E820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{529AC863-25B1-4411-900E-B438D043E820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4566FA0A-FD00-4697-B7C6-A67FAD11A7AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
